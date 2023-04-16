@@ -1,0 +1,6 @@
+**/node_modules/
+
+front/.next/
+.swc/
+# **/.*.env
+**/dist
